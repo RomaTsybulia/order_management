@@ -14,7 +14,7 @@ Features:
 - Bulk Order Status Update: Update the status of multiple orders at once.
 
 Installation:
-1. git clone <repository_url>
+1. git clone https://github.com/TsybuliaRoman/order_management
 2. cd order_management
 3. pip install -r requirements.txt
 4. python order_management/app/app.py
